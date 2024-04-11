@@ -20,7 +20,12 @@ I am now taking a short course at [ESIIL](https://esiil.org).
 | **Malaria Diagnosis Digitization** <br> _Intelligent Malaria Detection and Species classification_ <br> This project leverages the power of deep learning to identify malaria parasites from images of blood samples collected from a biomedical center and also classify the species of the parasites. Close collaboration with experts from a biomedical lab to annotate and label images. | <img src="/images/Detection_PO.png" width="65%" alt="Detection of parasite from a blood sample"/> |
 |:---|:---:|
 | **Training a Speech Recognizer from Synthetic Data** <br> _Training speech recognizer with synthetic data, getting a closer performance of models using natural speech, minimizing the need for costly annotated data_ <br>  Utilized the VITS system, an end-to-end text-to-speech generator that uses a conditional Variational autoencoder (VAE) to connect two text-to-speech (TTS) modules and achieve high-quality speech waveforms. The goal is to reduce the need for expensive annotated speech data and achieve performance comparable to natural speech. Its practical application lies in automatic speech recognition for languages with limited resources. | <img src="/images/Screenshot 2024-04-11 163707.png" width="70%" alt="ASR Training Results"/> |
-| **Air Quality Prediction?** <br> _Utilized Sentinel satellite data and geospatial techniques to predict air quality in South Africa using machine learning models._ <br> Considered major pollutants such as PM2.5, PM10, SO2, and CO. | <img src="/images/APPGITHUB.jpg" width="40%" alt="Web App for Harvest Decisions"/> |
+| **Predicting PM2.5 Levels in Pretoria, South Africa Using Air Quality and Remote Sensing Data: A Comparative Analysis of Machine Learning Models** <br> _Utilized Sentinel satellite data and geospatial techniques to predict air quality in South Africa using machine learning models._ <br> Considered major pollutants such as PM2.5, PM10, SO2, and CO. | <img src="/images/APPGITHUB.jpg" width="40%" alt="Web App for Harvest Decisions"/>|
+| **Ethiopian Sign Language to Speech Conversion** <br> _Converts Ethiopian Sign Language to speech using glove-attached sensors, classification algorithm, and customized Android app. Aims marginalized community._ <br> The project involved hardware interfacing, training classification algorithms, and mobile application development. | <img src="/images/APPGITHUB.jpg" width="40%" alt="Web App for Harvest Decisions"/>|
+
+
+
+
 
 
 ---
