@@ -1,8 +1,13 @@
 ## Yamlak Asrat Bogale
-I am a master's student in Electrical and Computer Engineering concentrating on Applied Machine Learning at Carnegie Mellon University. I am strongly interested in AI's applications in healthcare, language technologies, and the environment. I am now taking a short course at [ESIIL](https://esiil.org).
 
-![Representing Ethiopia at South American Business Forum](/images/SABF23_Día2_0027.jpg)
-<img src="images/SABF23_Día2_0027.jpg" alt="Representing Ethiopia at South American Business Forum" align="right"/> 
+<img src="images/Yamlak_headshot.jpg" alt="Representing Ethiopia at South American Business Forum" width="250" align="right"/> 
+
+I am currently pursuing an Advanced Master's degree in Electrical and Computer Engineering at Carnegie Mellon University, where my specialization is Applied Machine Learning. I've been actively involved in hands-on projects in this exciting field.  While my background is rooted in the computer software industry, my recent shift towards data analysis and applied machine learning reflects my passion for these areas. I am strongly interested in AI's applications in healthcare, language technologies, and the environment. 
+
+I am now taking a short course at [ESIIL](https://esiil.org).
+
+
+---
 
 #### Contact Information
 * [Email](yamlakyam@gmail.com)
@@ -10,14 +15,30 @@ I am a master's student in Electrical and Computer Engineering concentrating on 
 * [GitHub](https://github.com/yamlakyam)
 * [Twitter](https://twitter.com/Yamlak_A_Bogale)
 
-#### 🎓 Educational Background
+## 🤖Projects
+
+| **Malaria Diagnosis Digitization** <br> _Intelligent Malaria Detection and Species Classification_ <br> This project leverages the power of deep learning to identify malaria parasites from images of blood samples collected from a biomedical center and also classify the species of the parasites. Close collaboration with experts from a biomedical lab to annotate and label images. | <img src="/images/GDD.jpg" width="65%" alt="Cranberry Growth Prediction"/> |
+|:---|:---:|
+| **What Tells a Cranberry Bush It's Stressed, and How Much Nitrogen Does It Whisper for Relief?** <br> _Identifying Different Types of Stresses and Nitrogen Fertilizer Recommendation using Multispectral Remote Sensing_ <br> Listening to the silent pleas of cranberry bushes, this endeavor uses multispectral remote sensing to discern their stress signals and whispers back with precise nitrogen fertilizer recommendations. | <img src="/images/THUMBNAILREMOTESENSING.jpg" width="70%" alt="Stress Detection in Cranberries"/> |
+| **Deciding the Perfect Harvest: When Do Cranberries Shine Brightest?** <br> _Developing a Web App for Harvest Decisions in Cranberry to Help Cranberry Growers_ <br> Crafting the perfect timing for cranberries to make their grand entrance from field to market, this web app serves as a digital almanac, guiding growers on the optimal moments for harvest, ensuring that every berry is at its best. | <img src="/images/APPGITHUB.jpg" width="40%" alt="Web App for Harvest Decisions"/> |
+
+
+---
+
+## 🎓 Educational Background
 
 **Advanced MS. in Electrical and Computer Engineering / Applied Machine Learning**
+
 _Carnegie Mellon University_ (May 2024)
-**Electrical and Computer Engineering / Computer Stream** 
+
+
+**BSc. in Electrical and Computer Engineering / Computer Stream** 
+
 _Addis Ababa University_ (Dec 2020)
 
-#### 💼 Experience
+---
+
+## 💼 Experience
 
 **Research Assistant in AI for Medical Imaging Analysis**  
 _Cylab Africa / Upanzi Network_  
@@ -28,7 +49,7 @@ Conducted malaria screening and species multi-classification research projects f
 
 
 **Project Coordinator** 
-_CarLovers, LLC_ 
+_CarLovers LLC_ 
 _Mar 2022 - Aug 2022_
 
 Coordinated a software technology startup across Web, Android, and iOS platforms and monitored the project’s progress. Implemented Agile/Scrum methodology to facilitate the project’s smooth and efficient progression.
