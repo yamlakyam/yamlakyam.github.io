@@ -10,14 +10,30 @@ I am a master's student in Electrical and Computer Engineering concentrating on 
 * [GitHub](https://github.com/yamlakyam)
 * [Twitter](https://twitter.com/Yamlak_A_Bogale)
 
-#### Educational Background
+#### 🎓 Educational Background
 
-* Electrical and Computer Engineering -- Applied Machine Learning major (Carnegie Mellon University) (May, 2024)
-* Electrical and Computer Engineering -- Computer Stream (Addis Ababa University) (Dec, 2020)
+**Advanced MS. in Electrical and Computer Engineering / Applied Machine Learning**
+_Carnegie Mellon University_ (May 2024)
+**Electrical and Computer Engineering / Computer Stream** 
+_Addis Ababa University_ (Dec 2020)
 
-#### Experience
+#### 💼 Experience
 
-* Research Assistant  -- Cylab Africa / Upanzi Network  (2023 - Now)
-* Project Coordinator -- CarLovers, LLC (2022)
-* Programmer          -- OM Consulting and Engineering (2022)
-* Programmer          -- CNET Software Technologies (2021- 2022)
+**Research Assistant**  
+_Cylab Africa / Upanzi Network_  
+_Jun 2023 - Present_
+
+
+**Project Coordinator** 
+_CarLovers, LLC_ 
+_Mar 2022 - Aug 2022_
+
+
+**Programmer**
+_OM Consulting and Engineering_
+_Jan 2022 - July 2022_
+
+
+**Programmer**          
+_CNET Software Technologies_
+_Mar 2021- Feb 2022_
