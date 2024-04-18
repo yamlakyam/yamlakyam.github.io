@@ -95,3 +95,7 @@ Created data-driven display apps for a multinational FMCG company utilizing real
 - **Very Great Distinction, December 2020,** awarded by the School of Electrical and Computer Engineering at Addis Ababa University 
 
 ---
+
+---
+<embed type="text/html" src="images/cmu_africa.html" width="600" height="600">
+---
