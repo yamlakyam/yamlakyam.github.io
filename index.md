@@ -96,6 +96,5 @@ Created data-driven display apps for a multinational FMCG company utilizing real
 
 ---
 
----
 <embed type="text/html" src="images/cmu_africa.html" width="600" height="600">
 ---
