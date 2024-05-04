@@ -82,7 +82,7 @@ Created data-driven display apps for a multinational FMCG company utilizing real
 
 - **Mastercard Foundation Scholar, Aug 2022 - Aug 2024,** awarded by Mastercard Foundation that covers full tuition fees.
 
-- - **HighRisers Fellow, Feb 2024 - Present,** was selected as one of 20 Women in Data Science fellows, paired with seasoned professional mentors.
+- **HighRisers Fellow, Feb 2024 - Present,** was selected as one of 20 Women in Data Science fellows, paired with seasoned professional mentors.
 
 - **Travel Grant, November 2023,** awarded by Cylab Africa/ Upanzi Network to attend and present a poster at the 2nd West African Conference West Africa Conference on Digital Public Goods and Cybersecurity.
 
