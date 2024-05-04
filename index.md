@@ -4,7 +4,6 @@
 
 I am currently pursuing an Advanced Master's degree in Electrical and Computer Engineering at Carnegie Mellon University, where my specialization is Applied Machine Learning. I've been actively involved in hands-on projects in this exciting field.  While my background is rooted in the computer software industry, my recent shift towards data analysis and applied machine learning reflects my passion for these areas. I am strongly interested in AI's applications in healthcare, language technologies, and the environment. 
 
-I am now taking a short course at [ESIIL](https://esiil.org).
 
 
 ---
