@@ -21,6 +21,7 @@ News and Updates
 - Nov 2024: Poster accepeted at the BlackinAI workshop colocated with NeurIPS
 - Nov 2024: Our workshop paper got accepted at NeurIPS Climatechange.ai workshop
 - May 2024: Completed my Masters at Carnegie Mellon University and awarded the [Rising Researcher Jeremiah Mpagazehe Award](https://www.africa.engineering.cmu.edu/news/2024/05/30-graduation.html)
+- Mar 2024: Featured in [Mastercard Foundation's Impact stories](https://mastercardfdn.org/en/what-we-do/impact-stories/remember-to-stay-connected-to-your-roots/)
 - Feb 2024: HighRisers Fellow, selected as one of 20 Women in Data Science fellows and paired with seasoned professional mentors.
 - Nov 2023: Travel Grant, awarded by [Cylab Africa/Upanzi Network](https://www.africa.engineering.cmu.edu/research/upanzi/index.html) to attend and present a poster at the 2nd [West African Conference on Digital Public Goods and Cybersecurity](https://www.africa.engineering.cmu.edu/events/conferences/digital-infrastructure-cybersecurity/index.html).
 - May 2023: ICLR Registration Grant, awarded by Women in Machine Learning to attend the International Conference on Learning Representations (ICLR) held in Kigali, Rwanda.
