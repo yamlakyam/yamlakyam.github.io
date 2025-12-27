@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Yamlak Asrat Bogale"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Currently a PhD student in Biomedical Informatics at Indiana University, focusing on applying AI and deep learning to histopathology images for cancer diagnosis and prognosis"
   location         : "Indianapolis"
   employer         : "Indiana University"
   uri              : # URL
