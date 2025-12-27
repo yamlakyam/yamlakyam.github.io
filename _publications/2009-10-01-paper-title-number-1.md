@@ -2,7 +2,7 @@
 title: "Intelligent malaria detection and species classification: A case of Rwanda"
 collection: publications
 category: conferences
-permalink: [https://ieeexplore.ieee.org/abstract/document/10848723](https://link.springer.com/chapter/10.1007/978-981-97-3299-9_41)
+permalink: 'https://link.springer.com/chapter/10.1007/978-981-97-3299-9_41'
 excerpt: '  '
 date: 2024-07-30
 venue: 'Proceedings of Ninth International Congress on Information and Communication Technology'
