@@ -4,7 +4,7 @@ collection: publications
 category: Workshop paper
 permalink: https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/neurips2024/47/paper.pdf
 excerpt: 'Leveraging data from the Rwanda Environmental Management Authority (REMA) to forecast PM2.5 levels in Kigali using three machine learning models which analyze daily average PM2.5 levels, aiming to support air quality interventions and improve public health outcomes in Rwanda'
-date: 2015-10-01
+date: 2024-12-15
 venue: 'Climate Change AI workshop at NeurIPS'
 slidesurl: '  '
 paperurl: 'https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/neurips2024/47/paper.pdf'
