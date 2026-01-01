@@ -40,15 +40,15 @@ Work experience
   
 Skills
 ======
-* Programming Languages | Libraries
-  * Python | Pytorch
-  * Scikit-learn | Pandas | Matplotlib
-  * Java | SQL | C | C#
-  * Dot Net Core | Android | React-js
-* Techniques | Models
-   * Linear Regression | Logistic Regression
+* Programming Languages \| Libraries
+  * Python \| Pytorch
+  * Scikit-learn \| Pandas \| Matplotlib
+  * Java \| SQL \| C \| C#
+  * Dot Net Core \| Android \| React-js
+* Techniques \| Models
+   * Linear Regression \| Logistic Regression
    * Deep Neural Networks 
-   * Computer vision | CNNs
+   * Computer vision \| CNNs
    * Sequence-to-sequence modeling
    * Time Series Analysis
  
@@ -59,6 +59,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -74,3 +75,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
