@@ -23,9 +23,9 @@ Work experience
   * Supervisor: Dr. Rakesh Shiradkar
 
 * 2023 - 2025 : Graduate Research Associate
-  * Carnegie Mellon University | Upanzi Network
+  * Carnegie Mellon University \| Upanzi Network
 <!--  * Duties included: Merging pull requests -->
-  * Supervisor: Dr. Carine Mukamakuza | Dr. Assane Gueye
+  * Supervisor: Dr. Carine Mukamakuza \| Dr. Assane Gueye
 
 * 2022 : Project Coordinator
   * CarLovers, LLC
