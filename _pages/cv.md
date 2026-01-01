@@ -11,35 +11,47 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biomedical Informatics, Indiana University, 2030 (expected)
+* M.S. in Electrical and Computer Engineering, Carnegie Mellon University, 2024
+* B.S. in Electrical and Computer Engineering, Addis Ababa University, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025 - Present : Graduate Research Assistant
+  * Indiana University Indianapolis
+<!--  * Duties includes: Updates and improvements to template -->
+  * Supervisor: Dr. Rakesh Shiradkar
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023 - 2025 : Graduate Research Associate
+  * Carnegie Mellon University | Upanzi Network
+<!--  * Duties included: Merging pull requests -->
+  * Supervisor: Dr. Carine Mukamakuza | Dr. Assane Gueye
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022 : Project Coordinator
+  * CarLovers, LLC
+<!--  * Duties included: Tagging issues -->
+<!--  * Supervisor: Professor Git -->
+
+* 2022 : Programmer
+  * OM Consulting and Engineering
+ 
+* 2021 - 2022 : Mobile Application Developer
+  * CNET Software Technologies
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages | Libraries
+  * Python | Pytorch
+  * Scikit-learn | Pandas | Matplotlib
+  * Java | SQL | C | C#
+  * Dot Net Core | Android | React-js
+* Techniques | Models
+   * Linear Regression | Logistic Regression
+   * Deep Neural Networks 
+   * Computer vision | CNNs
+   * Sequence-to-sequence modeling
+   * Time Series Analysis
+ 
 
 Publications
 ======
