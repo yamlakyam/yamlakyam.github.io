@@ -12,9 +12,11 @@ I am a PhD student in Biomedical Informatics at Indiana University, currently wo
 
 News and Updates
 ======
+- Feb 2026: An abstract accepted at SIIM
+- Jan 2026: 3 Abstracts accepted at AUA
 - Nov 2025: Travel Grant, awarded by WiML to attend NeurIPS 
-- Oct 2025: 2 Papers accepted at SPIE Medical Imaging
-- Oct 2025: 2 Abstracts accpeted at USCAP
+- Oct 2025: A Paper accepted at SPIE Medical Imaging
+- Oct 2025: 2 Abstracts accepted at USCAP
 - Sep 2025: A Poster accepted at NeurIPS WiML workshop 
 - Jan 2025: Started my PhD at Indiana University
 - Dec 2024: Travel Grant, awarded by BlackinAI to attend NeurIPS
