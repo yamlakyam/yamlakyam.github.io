@@ -8,7 +8,7 @@ date: 2026-01-12
 location: "Indianapolis, Indiana"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Served as a Teaching Assistant for a graduate-level BIOMEDICAL IMAGE PROCESSING (BMEG-511) course in the Biomedical Engineering and Informatics Department at Indiana University. Responsibilities included preparing course and lab materials, leading weekly hands-on lab sessions, Preparing bi-weekly quizzes, graded assignments and reports, and held office hours to provide academic support and mentoring. 
 
 Heading 1
 ======
