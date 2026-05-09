@@ -12,12 +12,3 @@ Served as a Teaching Assistant for a graduate-level BIOMEDICAL IMAGE PROCESSING 
 
 More information about the course can be found here [Biomedical Image Processing (BMEG-E 511)](https://academics.iu.edu/courses/indianapolis/bmeg-e-511-biomedical-image-processing.html) in the course page.
 
-Heading 1
-======
-
-Heading 2
-======
-- Led lab sessions and supported students during exercises  
-- Graded assignments and provided feedback  
-- Held office hours to help students understand course concepts
-======
