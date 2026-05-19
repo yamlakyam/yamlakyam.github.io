@@ -12,6 +12,7 @@ I am a PhD student in Biomedical Informatics at Indiana University, currently wo
 
 News and Updates
 ======
+- May 2026: My project was selected for IUSCCC Trainee Pilot Grant Funding
 - Feb 2026: An abstract accepted at SIIM
 - Jan 2026: 3 Abstracts accepted at AUA
 - Nov 2025: Travel Grant, awarded by WiML to attend NeurIPS 
