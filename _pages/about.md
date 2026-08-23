@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Biomedical Informatics at Indiana University, currently working at the AIMeD Lab under [Prof. Rakesh Shiradkar](https://luddy.indianapolis.iu.edu/people/rakesh-shiradkar.html). I completed my M.S. degree in Electrical and Computer Engineering at Carnegie Mellon University in 2024. Previously, I obtained my B.Sc. in Electrical and Computer Engineering from Addis Ababa University. I have also worked at the [AI Healthcare Lab](https://www.africa.engineering.cmu.edu/research/ai-healthcare.html) at CMU-Africa under [Prof. Carine Mukamakuza](https://www.africa.engineering.cmu.edu/about/contact/directory/bios/mukamakuza-carine.html). My research focuses on histopathology image analysis, multimodal integration, and AI for cancer diagnosis and prognosis.
+I am a PhD student in Biomedical Informatics at Indiana University, currently working at the AIMeD Lab under [Dr. Rakesh Shiradkar](https://luddy.indianapolis.iu.edu/people/rakesh-shiradkar.html). I completed my M.S. degree in Electrical and Computer Engineering at Carnegie Mellon University in 2024. Previously, I obtained my B.Sc. in Electrical and Computer Engineering from Addis Ababa University. I have also worked at the [AI Healthcare Lab](https://www.africa.engineering.cmu.edu/research/ai-healthcare.html) at CMU-Africa under [Dr. Carine Mukamakuza](https://www.africa.engineering.cmu.edu/about/contact/directory/bios/mukamakuza-carine.html). My research focuses on histopathology image analysis, multimodal integration, and AI for cancer diagnosis and prognosis.
 
 
 News and Updates
