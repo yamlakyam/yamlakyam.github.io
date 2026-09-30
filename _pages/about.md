@@ -16,7 +16,7 @@ News and Updates
 - Feb 2026: An abstract accepted at SIIM
 - Jan 2026: 3 Abstracts accepted at AUA
 - Nov 2025: Travel Grant, awarded by WiML to attend NeurIPS 
-- Oct 2025: A Paper accepted at SPIE Medical Imaging
+- Oct 2025: A [Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13932/1393209/Foundation-model-based-prostate-cancer-segmentation-on-digitized-HE-prostate/10.1117/12.3085815.full) accepted at SPIE Medical Imaging
 - Oct 2025: 2 Abstracts accepted at USCAP
 - Sep 2025: A Poster accepted at NeurIPS WiML workshop 
 - Jan 2025: Started my PhD at Indiana University
